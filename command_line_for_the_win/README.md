@@ -21,5 +21,5 @@
 
 ## Author :octocat:
 
-[Esteban De La Hoz](https://www.linkedin.com/in/esteban-de-la-hoz-romero-b6270017b/) | [Twitter](https://twitter.com/Esteban18911) | [GitHub](https://github.com/Esteban18911)
+[Birra Haile](https://www.linkedin.com/in/birrahaile/) | [Twitter](https://twitter.com/birrahaile2) | [GitHub](https://github.com/birrahaile)
  
