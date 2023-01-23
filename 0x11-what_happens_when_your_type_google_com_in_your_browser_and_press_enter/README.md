@@ -32,6 +32,4 @@ This project contains tasks that show if you understand how the internet works f
     + That the application server generates the web page.
     + That the application server request data from the database.
 
-+ [x] 2. Contribute!<br/>_**[0-world_wide_web](0-world_wide_web)**_ contains a URL to a pull request that contributes to the section [here](https://github.com/alex/what-happens-when#the-g-key-is-pressed), which is a question that folks on the internet have been trying to provide a comprehensive answer to.
-  + Requirements:
-    + The pull request must bring meaningful value (not a typo correction or style improvement).
+
